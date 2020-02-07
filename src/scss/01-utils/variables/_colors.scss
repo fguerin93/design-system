@@ -1,0 +1,21 @@
+// ----------------------
+// == Colors
+// ----------------------
+
+// Graphic chart
+:root {
+  --color-white: #fff;
+  --color-black: #000;
+  --color-grey-1: #F4F5F9;
+  --color-grey-2: #E3E8EF;
+  --color-grey-3: #B2B9C3;
+  --color-grey-4: #7B8593;
+  --color-grey-5: #3D4248;
+  --color-green: #27ae60;
+  --color-red: #fa4a4a;
+  --color-purple: #6765FF;
+
+  --color-primary: var(--color-purple);
+  --color-success: var(--color-green);
+  --color-error: var(--color-red);
+}

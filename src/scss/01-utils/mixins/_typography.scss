@@ -1,0 +1,36 @@
+@mixin title-1 {
+  font-family: 'Eina';
+  font-weight: 600;
+  font-size: 40px;
+}
+
+@mixin title-2 {
+  font-family: 'Eina';
+  font-weight: 600;
+  font-size: 16px;
+}
+
+@mixin text {
+  font-family: 'Eina';
+  font-weight: 400;
+  font-size: 16px;
+}
+
+@mixin link {
+  font-family: 'Eina';
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+@mixin legend {
+  font-family: 'Eina';
+  font-weight: 400;
+  font-size: 14px;
+}
+
+@mixin button {
+  font-family: 'Eina';
+  font-weight: 600;
+  font-size: 16px;
+}
